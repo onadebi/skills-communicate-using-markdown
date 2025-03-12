@@ -6,5 +6,5 @@
 
 
 ``` javascript 
-var myVar = "$find .";
+var myVar = "Bash command >$find .";
 ```
